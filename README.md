@@ -1,8 +1,6 @@
 # Tic-Tac-Toe
 A Simple way of implementing Tic-Tac-Toe game
 
-# Tic-Tac-Toe
-
 
 ## Table of contents
 * [General info](#general-info)
